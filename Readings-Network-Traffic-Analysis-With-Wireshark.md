@@ -1,7 +1,7 @@
 # Network Traffic Analysis with Wireshark
-- 1. What does "OSI' stand for?
+ 1. What does "OSI' stand for?
     - OSI stands for Open Systems Interconnection   
-- 2. List the 7 layers of the OSI model and what each one is responsible for.
+ 2. List the 7 layers of the OSI model and what each one is responsible for.
     - Application layer
     - Presentation layer
     - Session layer
@@ -9,7 +9,7 @@
     - Network layer
     - Data link layer
     - Physical layer
-- 3. Distinguish which layers are the "hardware layers", and which layers are the "software layers". What does that even mean?
+ 3. Distinguish which layers are the "hardware layers", and which layers are the "software layers". What does that even mean?
     - The hardware layers of the OSI model are the following: Physical layer, Data link layer.
     - The software layers of the OSI model are the following: Application layer, Presentation layer, Session layer.
     - Hardware layers are focused on the physical aspects of communication, the lower part of the Data Link Layer (MAC sub-layer) is involved in managing hardware addresses and access to the physical medium. All in all, both layers handle hardware-related aspects of network communication in the OSI model.
