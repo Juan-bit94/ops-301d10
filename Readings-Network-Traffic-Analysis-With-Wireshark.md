@@ -17,11 +17,11 @@
  4. How can the OSI model be used in troubleshooting?
     - The OSI model can be used in troubleshooting because the model provides a structured framework for understanding and addressing network issues. If a user is aware of the layers, then they can analyze each layer to identify and isolate the problem. 
 # How to use Wireshark
- 1. What is Wireshark?
+1. What is Wireshark?
     - Wireshark is a network protocol analyzer, an application that captures packets from a network connection. 
- 2. What is a packet?
+2. What is a packet?
     - A packet is the name given to a discrete unit of data in a typical Ethernet network.
- 3. What 3 high-level things does Wireshark accomplish? How could these be used for nefarious purposes? For benevolent purposes?
+3. What 3 high-level things does Wireshark accomplish? How could these be used for nefarious purposes? For benevolent purposes?
     - Packet capture:
         - Wireshark can be used for bad purposes within the wrong hands. For example, it can be used in man-in-the-middle attacks, a hacker can use wireshark to capture and analyze traffic passing through. It can also be used for network reconnaissance to map out a network and identify hosts.
         - For good intentions, an IT professional can use wireshark for network troubleshooting in order to diagnose network issues. In addition, wireshark can be used for forensic investigations, it provides a detailed record for network activities helping investigators reconstruct events of the breach. 
@@ -30,4 +30,13 @@
         - For good intentions, an IT professional can use wireshark for network performance optimization. It professionals can ensure that critical applications and services receive sufficient bandwidth and resources for optimal performance.  
     - Visualization:
         - For visualization, a hacker can use it to manipulate data. A hacker can use visualization to forge graphical representations of data, leading to msinformation, confusion, or exploitation fo vulnerabilities.
+ 
+        
+        
+        
+        
+        
+        
+        
+        
         -  It professionals can use visualization tools such as wireshark for the good of the company. In a proper context, visualization tools can be used for network monitoring and security analysis. Visualizations can be used to identify and respond to potential threats. 
