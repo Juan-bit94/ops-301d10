@@ -1,6 +1,6 @@
 # Readings: Network scanning with NMAP
 ## Why this topic matters
-- 
+- This topic matters because as IT and cybersecurity professionals port scanning is avaliable to secure a network and to exploite it as well. Port scanning can help individuals know which ports need to be open and which to secure by closing it. Along with port scanning, individuals need to know the common ports for network use. Knowing ports enables professionals to know what services are provided such as DNS, DHCP, and others. Having this knowladge will play a critical role in the day to day of a network professional. 
 1. What is a port? Describe it with an analogy that would help a family member understand.
 - A port is a virtual location where networking communication starts and ends. If I had to explaine it to a family member, I would tell them that a port is like a phone number or an address. It lets devices know who to communicate with. 
 2. What does a port scanner send to a port to check the current status?
@@ -23,4 +23,4 @@
 - RDP: Remote Desktop Protocol uses TCP port 3389. If you are using a Windows computer, then a user can use RDP for viewing other peoples desktop for troubleshooting issues remotely.
 - Ping: Ping uses the internet control message protocol (ICMP). There is no specific port number, when a ping command is sent, the computer sends an ICMP echo request message to the destination, and the destination responds with an ICMP echo reply. 
 ## Things I want to know more about.
-- 
+- I would like to know more about the specific ports that are used with devices such as firewalls and servers. Also, I would like to know more about the differences between internet facing and intranet facing devices, if they use similar ports or something else. 
