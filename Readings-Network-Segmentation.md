@@ -1,6 +1,6 @@
 # Network Segmentation
 ## Why this topic matter
--
+- This topic matters becuase the uses of IP addresses has increased greatly year after year. This has caused major corporations and orginizations to simplify the distributions of IP addresses to various devices. Knowing why network segmentation works and its benfits can help in the career of a cybersecurity professional or IT professional. 
 1. What is CIDR notation? a CIDR block?
 - A CIDR notation is a way of representing a CIDR block, which is a range of IP addresses.
 2. How many octets are found in an IPv4 address?
