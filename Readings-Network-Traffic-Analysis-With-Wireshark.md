@@ -1,4 +1,6 @@
 # Network Traffic Analysis with Wireshark
+## Why this topic matters
+- This topic matters because OSI is the foundation of networking. This framwork is what allows devices to communicate with each other locally and remotely. In addition, knowing about wireshark will be an introduction to the various tools that IT professionals will use in order to troubleshoot and keep devices secured. 
  1. What does "OSI' stand for?
     - OSI stands for Open Systems Interconnection   
  2. List the 7 layers of the OSI model and what each one is responsible for.
@@ -30,13 +32,6 @@
         - For good intentions, an IT professional can use wireshark for network performance optimization. It professionals can ensure that critical applications and services receive sufficient bandwidth and resources for optimal performance.  
     - Visualization:
         - For visualization, a hacker can use it to manipulate data. A hacker can use visualization to forge graphical representations of data, leading to msinformation, confusion, or exploitation fo vulnerabilities.
- 
-        
-        
-        
-        
-        
-        
-        
-        
         -  It professionals can use visualization tools such as wireshark for the good of the company. In a proper context, visualization tools can be used for network monitoring and security analysis. Visualizations can be used to identify and respond to potential threats. 
+## Things I want to know more about
+- I would like to know about other tools beyond wireshark. Since I know that wireshark has its limitations, I would like to know what other tools I can use in an IT context. 
