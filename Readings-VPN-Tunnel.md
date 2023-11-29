@@ -1,6 +1,6 @@
 # VPN Tunnel
 ## Why this topic matter
--
+- This topic matters because as the world moves to a more work from home hybrid model, it is important to know and understand how VPNs work. 
 1. What is a site-to-site VPN?
 - A site-to-site (VPN) is a connection set up between multiple networks.
 - Its useful for companies that prioritize provate, protected traffic, and with more than one office spread out over large geographical locations.
