@@ -14,7 +14,8 @@ stepBystepTime "Time stamping is a critical step in automating log generation. T
 
 # Declaration of variables
 current_date=$(date '+%Y%m%d_%H%M%S')
-destination_file="/home/juan/Documents/syslog_${current_date}.log"
+current_user=$whoami
+destination_file="/home/${current_user}/Documents/syslog_${current_date}.log"
 
 cat /var/log/syslog >> $destination_file
 # main
