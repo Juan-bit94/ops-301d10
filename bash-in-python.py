@@ -3,14 +3,16 @@
 # Date of lastest revision:		12/04/2023
 # Purpose:				        This program executes bash commands on a python file.
 
-
+# it imports a library that allows operating system interaction
 import os
-# methods
 
+# methods
+# This method will run the bash commands
 def bash_commands(command):
     result = os.popen(command).read()
     return result
 
+# This will keep asking users for what they want to choose unless they exit.
 while True:
     # Display menu options
     print("\nBash Menu Options")
@@ -30,8 +32,10 @@ while True:
         '4': lambda: exit("Exiting the Menu now.")
     }
 
+    # This gets lambda function to use in running commands
     selected_option = options.get(user_choice, None)
-    
+
+    # this executes lamda function, uless its not a valid choice.
     if selected_option:
         selected_option()
     else:
