@@ -21,9 +21,12 @@
 - RADIUS stands for remote authentication dail in user service and it is a client-server protocol and software that enables remote access servers to communicate with a central server to authenticate dial-in users and authorize their access to the requested system or service. 
 ## Research: What encryption algorithms does RADIUS use?
 - RADIUS uses transport layer security and often implements the following:
-  - Message Digest Algorithm: This includes message digest algorithm 5 (MD5) or secure hash algorithm 1 (SHA-1). While MD5 is common, SHA-1 is considered more secure and is recommended for stronger cryptographic protection.
-  - Transport layer security (TLS): Some RADIUS implements TLS to encrypt the entire communication channel between the RADIUS client and server. TLS provides a higher level of security by encrypting the data in transit.
-  - Advanced Encryption Standard (AES): Recently, RADIUS has been using AES for encryption. AES is a widely accepted symmetric encryption algorithm, providing strong security and performance.   
+
+   - Message Digest Algorithm: This includes message digest algorithm 5 (MD5) or secure hash algorithm 1 (SHA-1). While MD5 is common, SHA-1 is considered more secure and is recommended for stronger cryptographic protection.
+  
+   - Transport layer security (TLS): Some RADIUS implements TLS to encrypt the entire communication channel between the RADIUS client and server. TLS provides a higher level of security by encrypting the data in transit.
+  
+   - Advanced Encryption Standard (AES): Recently, RADIUS has been using AES for encryption. AES is a widely accepted symmetric encryption algorithm, providing strong security and performance.   
 ## What I want to know more about.
 - I would like to know how scalability is implemented with RADIUS. Its been said that RADIUS is suitable for both small and large networks, so it would be cool to see how it scales up.
 - I am interested to learn more about RADIUS dynamic authorization and in what situation should you implement this configuration?
