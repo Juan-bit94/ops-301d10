@@ -26,11 +26,11 @@ def directory_list(path_location):
         for filename in files:
             print(f" File: {os.path.join(root, filename)}")
 
-    if __name__ == "__main__":
-        # Declaraction of variables
-        path_location = input("Enter a directory path (ex: /home/juan/ops-challange): ")
+if __name__ == "__main__":
+    # Declaraction of variables
+    path_location = input("Enter a directory path (ex: /home/juan/ops-challange): ")
 
-        # Takes user input and puts it into the function.
-        directory_list(path_location)
+    # Takes user input and puts it into the function.
+    directory_list(path_location)
 
     
