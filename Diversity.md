@@ -16,3 +16,7 @@
 - The more diverse a group of people are, the more ways they can see a problem differently leading to faster and better ways of solving it.
 ## Give an example of how a diverse company can serve a diverse user base or vise-versa.
 - Youtube developed a iOSapp without considering how right-handed people would use it. This caused 5% to 10% of videos being uploaded upside down.
+## What I would like to know more about.
+- I am interested to know how the topic of diversity in the technology field is being discussed in other nations.
+- The United States is not the only country with a diverse population. I would like to know if the UK, Europe, and other countries are championing diversity or if they are not doing anything and what the results are.
+
