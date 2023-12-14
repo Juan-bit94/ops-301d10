@@ -1,4 +1,4 @@
-# Script Name:	                ops-challenge-psutil.py
+# Script Name:	                test-ops.py
 # Author:				                Juan Maldonado
 # Date of lastest revision:		  12/13/2023
 # Purpose:				              This program creates a new user in AD.
